@@ -1,5 +1,5 @@
 # sscai
-Saint Simong of Cyrene Academy, Inc. Website. Admission and SMS Notifcations (Thesis Project)
+Saint Simon of Cyrene Academy, Inc. Website. Admission and SMS Notifcations (Thesis Project)
 
 ### Installation
 1. Clone or Download
