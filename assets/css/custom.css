@@ -1,0 +1,14 @@
+.login-container {
+	width: 320px;
+}
+.flex-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.h100 {
+	height: 100vh;
+}
+textarea {
+    min-height: 150px;
+}
