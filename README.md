@@ -1,5 +1,8 @@
-# sscai
+# Description
 Saint Simon of Cyrene Academy, Inc. Website. Admission and SMS Notifcations (Thesis Project)
+
+PHP CodeIgniter 3.1
+Mysql
 
 ### Installation
 1. Clone or Download
